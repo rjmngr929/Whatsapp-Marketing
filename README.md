@@ -22,6 +22,7 @@ Here is a demo Video
 https://github.com/rjmngr929/BizWhatsPro/assets/170399926/636bdbe5-db94-4b82-b983-4e5c303d920b
 
  <h5 class="mb-3">Project Images :</h5>
+ ![Home Screen](assets/screenshots/home.jpg)  
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/d24dacb9-a320-4236-835d-83435983928b" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5cb17c8c-525f-4300-8410-85ff1e722054" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/0a597746-f8e8-4a95-9ca6-a250d53f4223" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">

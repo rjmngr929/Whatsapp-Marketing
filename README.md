@@ -23,21 +23,14 @@ https://github.com/rjmngr929/BizWhatsPro/assets/170399926/636bdbe5-db94-4b82-b98
 
  <h5 class="mb-3">Project Images :</h5>
  ![Home Screen](assets/screenshots/home.jpg)  
-        <!-- <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/d24dacb9-a320-4236-835d-83435983928b" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
+       <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/d24dacb9-a320-4236-835d-83435983928b" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5cb17c8c-525f-4300-8410-85ff1e722054" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/0a597746-f8e8-4a95-9ca6-a250d53f4223" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/a87e3f8a-a0bb-4d7d-849f-7d8249d71fc6" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/32efa8de-262d-478e-b5b0-1d61f6db02c9" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
         <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/f5e80175-efd5-4c67-a303-705a898d4eec" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5030f0db-fd26-4dfc-91b1-daff657f1766" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400"> -->
+        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5030f0db-fd26-4dfc-91b1-daff657f1766" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400"> 
 
-   <img src="[https://github.com/rjmngr929/BizWhatsPro/assets/170399926/d24dacb9-a320-4236-835d-83435983928b](https://github.com/rjmngr929/Whatsapp-Marketing/blob/main/assets/screenshots/home.jpg)" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5cb17c8c-525f-4300-8410-85ff1e722054" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/0a597746-f8e8-4a95-9ca6-a250d53f4223" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/a87e3f8a-a0bb-4d7d-849f-7d8249d71fc6" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/32efa8de-262d-478e-b5b0-1d61f6db02c9" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/f5e80175-efd5-4c67-a303-705a898d4eec" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
-        <img src="https://github.com/rjmngr929/BizWhatsPro/assets/170399926/5030f0db-fd26-4dfc-91b1-daff657f1766" class="porfolio_gallery bg-white rounded" alt="gallery-images" width="200" height="400">
 Note: if anyone need help about this, then contact me on prajapat09rahul@gmail.com
 
 

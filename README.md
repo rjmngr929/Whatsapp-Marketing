@@ -20,11 +20,7 @@ Moreover, the app can read notifications and auto-reply on WhatsApp, ensuring ti
 - Auto reply for messages read from notification
 
 ## Demo Video
-
 https://github.com/user-attachments/assets/48150318-517e-4bde-9cf7-f8bb0fa2964f
-
-
-https://github.com/rjmngr929/BizWhatsPro/assets/170399926/636bdbe5-db94-4b82-b983-4e5c303d920b
 
 ## Project Images
 
